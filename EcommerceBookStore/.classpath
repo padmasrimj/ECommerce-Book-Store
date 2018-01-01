@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="**/*.java" kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/atishpatra/Downloads/hibernate-search-5.5.4.Final/dist/lib/required/lucene-core-5.3.1.jar"/>
+	<classpathentry kind="lib" path="/Users/atishpatra/Downloads/hibernate-search-5.5.4.Final/dist/lib/required/jboss-logging-3.3.0.Final.jar"/>
+	<classpathentry kind="lib" path="/Users/atishpatra/Downloads/hibernate-search-5.5.4.Final/dist/lib/required/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/Users/atishpatra/Downloads/hibernate-search-5.5.4.Final/dist/lib/required/xml-apis-1.3.03.jar"/>
+	<classpathentry kind="lib" path="/Users/atishpatra/Downloads/hibernate-search-5.5.4.Final/dist/lib/required/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="/Users/atishpatra/Downloads/hibernate-search-5.5.4.Final/dist/lib/required/javassist-3.18.1-GA.jar"/>
+	<classpathentry kind="lib" path="/Users/atishpatra/Downloads/hibernate-search-5.5.4.Final/dist/lib/provided/jboss-annotations-api_1.2_spec-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="/Users/atishpatra/Downloads/hibernate-search-5.5.4.Final/dist/lib/provided/jboss-jms-api_2.0_spec-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="/Users/atishpatra/Downloads/hibernate-search-5.5.4.Final/dist/lib/provided/jboss-transaction-api_1.2_spec-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="/Users/atishpatra/Downloads/hibernate-release-5.2.4.Final/lib/required/jandex-2.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="/Users/atishpatra/Downloads/hibernate-release-5.2.4.Final/lib/required/javassist-3.20.0-GA.jar"/>
+	<classpathentry kind="lib" path="/Users/atishpatra/Downloads/hibernate-release-5.2.4.Final/lib/required/classmate-1.3.0.jar"/>
+	<classpathentry kind="lib" path="/Users/atishpatra/Downloads/hibernate-release-5.2.4.Final/lib/required/jboss-logging-3.3.0.Final.jar"/>
+	<classpathentry kind="lib" path="/Users/atishpatra/Downloads/hibernate-release-5.2.4.Final/lib/required/geronimo-jta_1.1_spec-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/atishpatra/Downloads/hibernate-release-5.2.4.Final/lib/required/cdi-api-1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/atishpatra/Downloads/hibernate-release-5.2.4.Final/lib/required/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="/Users/atishpatra/Downloads/hibernate-release-5.2.4.Final/lib/required/jboss-interceptors-api_1.1_spec-1.0.0.Beta1.jar"/>
+	<classpathentry kind="lib" path="/Users/atishpatra/Downloads/hibernate-release-5.2.4.Final/lib/required/jsr250-api-1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/atishpatra/Downloads/hibernate-release-5.2.4.Final/lib/required/el-api-2.2.jar"/>
+	<classpathentry kind="lib" path="/Users/atishpatra/Downloads/hibernate-release-5.2.4.Final/lib/required/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="/Users/atishpatra/Downloads/hibernate-release-5.2.4.Final/lib/required/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/Users/atishpatra/Downloads/hibernate-release-5.2.4.Final/lib/required/hibernate-core-5.2.4.Final.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Server1_serverside">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.launching.macosx.MacOSXType/Java SE 8 [1.8.0_77]">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
